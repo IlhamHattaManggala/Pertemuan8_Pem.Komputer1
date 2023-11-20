@@ -4,11 +4,7 @@
  */
 package Frame;
 
-import Dashboard.Dashboard;
-import Dashboard.PanelDashboard;
-import JavaPackage.Koneksi;
 import KoneksiDatabase.KoneksiData;
-import java.awt.Frame;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
